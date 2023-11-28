@@ -3,8 +3,8 @@ const Footer = () => <footer className="page-footer font-small blue pt-4 bg-prim
     <div className="container-fluid text-center text-md-left ">
         <div className="row">
             <div className="col-md-6 mt-md-0 mt-3">
-                <h5 className="text-uppercase text-light">Ejercicio 3</h5>
-                <p className="text-light">Desarrollo de la consigna 3</p>
+                <h5 className="text-uppercase text-light">Ejercicio 6</h5>
+                <p className="text-light">Desarrollo de la consigna 6</p>
             </div>
 
             <hr className="clearfix w-100 d-md-none pb-0"/>
